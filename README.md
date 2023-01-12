@@ -1,6 +1,7 @@
 # sample-gauge-javascript
 
 gaugeのサンプル(ステップ実装言語はJavaScript)
+※JSは他の言語に比べて環境構築が一番楽そう
 
 ## 詳細
 
